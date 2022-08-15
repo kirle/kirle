@@ -4,7 +4,7 @@
   - 🌱 I’m currently learning Keras
   </p>
 <p align="center">
-  - 💬 Ask me about **Python, Java, Android Development, Linux**
+  - 💬 Ask me about Python, Java, Android Development, Linux
 </p>
 <p align="center">
   - 📫 How to reach me **luisruanova@gmail.com**
